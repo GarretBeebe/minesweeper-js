@@ -1,5 +1,14 @@
 == README
 
-To run, visit:
+To run:
 
-* http://jsbin.com/luqucen/1/edit?html,css,js,output
+* cd into project directory
+
+* run:
+
+  npm install
+
+* run:
+
+  npm start
+

@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  script(type='text/javascript', src='https://code.jquery.com/jquery-3.1.1.min.js')
+  script(type='text/javascript', src='javascripts/minesweeper.js')
+  #inputs
+    label(for='numberOfMines') Mines
+    input#numberOfMines.number(value='10')
+    label(for='rows') Rows
+    input#rows.number(value='12')
+    label(for='columns') Columns
+    input#columns.number(value='12')
+  br
+  #Board
+  br
+  button(onclick='init()') Start
+
