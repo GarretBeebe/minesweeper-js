@@ -1,0 +1,31 @@
+button {
+    margin:0 auto;
+    display:block;
+}
+#Board {
+    width: 252px;
+    height: 252px;
+    background: #999;
+    padding: 0px;
+    border: 2px solid #000;
+    margin: 0 auto;
+}
+#inputs {
+    width: 340px;
+    margin: 0 auto;
+}
+.number {
+    width: 50px;
+    padding: 1px;
+    color: #000000;
+    font-size: 16px;
+}
+.square {
+    margin: 0px;
+    padding: 0px;
+    width: 21px;
+    height: 21px;
+    background-size: 100%;
+    display: inline-block;
+    float: left;
+}
