@@ -12,6 +12,9 @@ To run:
 
   npm start
 
+* In your browser of choice, visit:
+
+    http://localhost:3000
 
 * A WIP example app is deployed on heroku. It can be found at:
 
