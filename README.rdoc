@@ -12,3 +12,7 @@ To run:
 
   npm start
 
+
+* A WIP example app is deployed on heroku. It can be found at:
+
+  https://myminesweeperjs.herokuapp.com/
