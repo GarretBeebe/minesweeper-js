@@ -1,5 +1,24 @@
 == README
 
-To run, visit:
+To run example, visit:
 
-* http://jsbin.com/luqucen/1/edit?html,css,js,output
+  http://jsbin.com/luqucen/1/edit?html,css,js,output
+
+This has been tested on IE 11, Edge, Chrome, Safari, and Firefox. The JS has
+also been linted with globally installed jshint. No issues at this time.
+
+To run basic web application:
+
+* Checkout node-express branch
+
+* Run:
+
+    npm install
+
+* Run:
+
+    npm start
+
+* In your browser of choice, visit:
+
+    http://localhost:3000

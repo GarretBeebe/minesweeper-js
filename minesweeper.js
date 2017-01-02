@@ -3,21 +3,21 @@ $( document ).ready(function() {
 
   var columns, rows, numberOfMines, remainingCells;
   var icons = {
-    blank: 'http://i.imgur.com/HM1e3Tbb.jpg',
-    pressed: 'http://i.imgur.com/bGT8xGEb.jpg',
-    exposedBomb: 'http://i.imgur.com/pTJ8Swhb.jpg',
-    explodedBomb: 'http://i.imgur.com/UFmXprFb.jpg',
-    flag: 'http://i.imgur.com/nLPvW15b.jpg',
+    blank: 'https://i.imgur.com/HM1e3Tbb.jpg',
+    pressed: 'https://i.imgur.com/bGT8xGEb.jpg',
+    exposedBomb: 'https://i.imgur.com/pTJ8Swhb.jpg',
+    explodedBomb: 'https://i.imgur.com/UFmXprFb.jpg',
+    flag: 'https://i.imgur.com/nLPvW15b.jpg',
     bombs: [
-      'http://i.imgur.com/Flqdqi1b.jpg',
-      'http://i.imgur.com/bM8oExob.jpg',
-      'http://i.imgur.com/bQKSbqYb.jpg',
-      'http://i.imgur.com/5jNcEeVb.jpg',
-      'http://i.imgur.com/BnxjHgHb.jpg',
-      'http://i.imgur.com/RaFrMYcb.jpg',
-      'http://i.imgur.com/GlwQOy0b.jpg',
-      'http://i.imgur.com/8ngsVa8b.jpg',
-      'http://i.imgur.com/lJ8P1wab.jpg'
+      'https://i.imgur.com/Flqdqi1b.jpg',
+      'https://i.imgur.com/bM8oExob.jpg',
+      'https://i.imgur.com/bQKSbqYb.jpg',
+      'https://i.imgur.com/5jNcEeVb.jpg',
+      'https://i.imgur.com/BnxjHgHb.jpg',
+      'https://i.imgur.com/RaFrMYcb.jpg',
+      'https://i.imgur.com/GlwQOy0b.jpg',
+      'https://i.imgur.com/8ngsVa8b.jpg',
+      'https://i.imgur.com/lJ8P1wab.jpg'
     ]
   };
 
