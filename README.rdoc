@@ -18,4 +18,4 @@ To run:
 
 * A WIP example app is deployed on heroku. It can be found at:
 
-  https://myminesweeperjs.herokuapp.com/
+    https://myminesweeperjs.herokuapp.com/
